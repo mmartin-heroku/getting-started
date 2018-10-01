@@ -1,2 +1,2 @@
-# geting-started
+# getting-started
 Heroku getting started apps
